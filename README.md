@@ -1,9 +1,9 @@
 # FlyRank Backend AI Engineering Internship
 
-> **Intern:** Hardik Sankhla
-> **Program:** FlyRank AI Internship
-> **Track:** Backend AI Engineering
-> **Repository:** Internship Work, Experiments, Assignments & Technical Evidence
+> **Intern:** Hardik Sankhla\
+> **Program:** FlyRank AI Internship\
+> **Track:** Backend AI Engineering\
+> **Repository:** Internship Work, Experiments, Assignments & Technical Evidence\
 > **Status:** In Progress
 
 ---
