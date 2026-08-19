@@ -1,0 +1,48 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Environment / secrets
+
+.env
+.env.*
+*.key
+*.pem
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.log
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Generated/private data
+
+data/private/
+data/raw/
+secrets/
+credentials/
+
+# Screenshots that may contain sensitive information
+
+# Uncomment if needed:
+
+# evidence/private/\n
