@@ -17,7 +17,7 @@ used, reviewed, collaborated with, automated, or avoided.
 As part of this assignment, I have set up three separate AI assistants with my custom instructions to create a baseline for future experiments. This allows me to observe how different AI models handle the exact same context regarding my identity, tone preferences, and current goals.
 
 **Shared Custom Instructions Summary:**
-- **About Me**: Hardik Sankhla, AI Engineer focused on Backend Engineering and conquering Machine Learning Systems (specifically mastering the MLS book from Harvard).
+- **About Me**: Hardik Sankhla, AI Engineer focused on Backend Engineering and conquering Machine Learning Systems.
 - **Tone Preferences**: Act as a technical collaborator. Prioritize accuracy over confidence, explain reasoning, distinguish facts from assumptions, and do not invent information. Prefer minimal, reversible changes.
 - **Current Goals**: 1) AI/ML Technical Research, 2) AI/Backend Debugging, 3) Technical Workflow Automation.
 

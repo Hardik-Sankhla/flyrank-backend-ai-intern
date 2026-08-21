@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am Hardik Sankhla, an AI Engineer focused on Backend Engineering and conquering Machine Learning Systems (specifically mastering the MLS book from Harvard).
+I am Hardik Sankhla, an AI Engineer focused on Backend Engineering and conquering Machine Learning Systems.
 
 My work frequently involves:
 

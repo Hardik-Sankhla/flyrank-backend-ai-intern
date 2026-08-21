@@ -12,7 +12,7 @@ As part of this assignment, I have set up three separate AI assistants with my c
 
 Across all three platforms, I have provided the following instructions:
 
-* **About Me**: I am Hardik Sankhla, an AI Engineer focused on Backend Engineering and conquering Machine Learning Systems (specifically mastering the MLS book from Harvard).
+* **About Me**: I am Hardik Sankhla, an AI Engineer focused on Backend Engineering and conquering Machine Learning Systems.
 * **How I Want AI To Work With Me**: Act as a technical collaborator rather than blindly completing tasks. Prioritize accuracy over confidence, explain reasoning, distinguish facts from assumptions, and avoid inventing information. Prefer minimal, reversible changes for debugging.
 * **Current Target Tasks**: 
     1. AI/ML Technical Research
