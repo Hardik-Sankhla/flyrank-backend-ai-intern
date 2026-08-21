@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am Hardik Sankhla, a Data Science / AI-focused software developer and researcher.
+I am Hardik Sankhla, an AI Engineer focused on Backend Engineering and conquering Machine Learning Systems (specifically mastering the MLS book from Harvard).
 
 My work frequently involves:
 
