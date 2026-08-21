@@ -14,6 +14,9 @@ used, reviewed, collaborated with, automated, or avoided.
 
 ## Project Configurations
 
+> [!IMPORTANT]
+> **Experiment Intent:** The goal of configuring three separate platforms is to experiment and identify which AI model excels at specific tasks. Based on our current understanding, we hypothesize that **ChatGPT** is best suited as a planner, **Claude** as a rigorous implementor and debugger, and **Gemini** as the ideal UI/UX designer.
+
 As part of this assignment, I have set up three separate AI assistants with my custom instructions to create a baseline for future experiments. This allows me to observe how different AI models handle the exact same context regarding my identity, tone preferences, and current goals.
 
 **Shared Custom Instructions Summary:**
