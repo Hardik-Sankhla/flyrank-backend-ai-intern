@@ -9,8 +9,30 @@ used, reviewed, collaborated with, automated, or avoided.
 ## Deliverables
 
 - Workflow Audit
-- Claude Project Configuration
-- Evidence screenshots in `evidence/screenshots/`
+- Project Configurations (Claude, ChatGPT, Gemini)
+- Evidence screenshots in `project-configuration/`
+
+## Project Configurations
+
+As part of this assignment, I have set up three separate AI assistants with my custom instructions to create a baseline for future experiments. This allows me to observe how different AI models handle the exact same context regarding my identity, tone preferences, and current goals.
+
+### 1. Claude
+* **Project Name**: CTO & Chief Technologist FlyRank Backend AI Project
+* **Instructions File**: [claude-project-configuration.md](./project-configuration/claude-project-configuration.md)
+* **Screenshot**:  
+  ![Claude Project Configuration](./project-configuration/claude-config.png)
+
+### 2. ChatGPT
+* **Project Name**: CMO & Lead Planner FlyRank Backend AI Project
+* **Instructions File**: [chatgpt-project-configuration.md](./project-configuration/chatgpt-project-configuration.md)
+* **Screenshot**:  
+  ![ChatGPT Custom Instructions](./project-configuration/chatgpt-config.png)
+
+### 3. Gemini
+* **Project Name**: UI/UX Expert & Lead Designer FlyRank Backend AI Project
+* **Instructions File**: [gemini-project-configuration.md](./project-configuration/gemini-project-configuration.md)
+* **Screenshot**:  
+  ![Gemini Custom Instructions](./project-configuration/gemini-config.png)
 
 ## Three Target Tasks
 
