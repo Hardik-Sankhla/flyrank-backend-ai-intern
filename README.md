@@ -52,31 +52,19 @@ The goal is to preserve not only **what I built**, but also **how I approached t
 ```text
 flyrank-backend-ai-intern/
 │
+├── src/
+│   └── flyrank/
+│       ├── api/
+│       ├── main.py
+│       ├── schemas.py
+│       └── store.py
+│
+├── tests/
+│
 ├── assignments/
-│   │
-│   ├── FL-01-workflow-audit/
-│   │   ├── README.md
-│   │   ├── workflow-audit.md
-│   │   ├── claude-project/
-│   │   │   └── instructions.md
-│   │   └── evidence/
-│   │       └── screenshots/
-│   │
-│   ├── FL-02-prompting/
-│   │   ├── README.md
-│   │   ├── prompts.md
-│   │   ├── results.md
-│   │   └── evidence/
-│   │
-│   ├── FL-03/
-│   │   ├── README.md
-│   │   └── evidence/
-│   │
-│   └── FL-04-automation/
-│       ├── README.md
-│       ├── prompts/
-│       ├── workflow/
-│       └── evidence/
+│   ├── main.py (Legacy entry point wrapper)
+│   ├── README.md
+│   └── (Other legacy assignments)
 │
 ├── projects/
 │   └── README.md
@@ -85,8 +73,16 @@ flyrank-backend-ai-intern/
 │   └── README.md
 │
 ├── scripts/
-│   └── generate-file-structure.py
+│   ├── generate-file-structure.py
+│   └── validate-agents.sh
 │
+├── docs/
+│   └── (Repository Documentation)
+│
+├── .agents/
+│   └── (Agent control plane)
+│
+├── pyproject.toml
 └── README.md
 ```
 
