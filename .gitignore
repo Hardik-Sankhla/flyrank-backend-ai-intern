@@ -19,6 +19,7 @@ env/
 
 .vscode/
 .idea/
+.obsidian/
 
 # OS
 
