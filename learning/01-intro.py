@@ -15,7 +15,7 @@ import sys
 
 # Example: Live progress update # without Carriage Return
 print("Without Carriage Return: ")
-for i in range(8):
+for i in range(11):
     sys.stdout.write(f"Progress: {i*10}%")
     sys.stdout.flush()
     time.sleep(0.1)
