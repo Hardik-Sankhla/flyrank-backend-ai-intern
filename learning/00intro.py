@@ -1,12 +1,12 @@
 # Explicit line continuation
+"""Used in Command line interface
+"""
+# Implicit line continuation
 print("We are going to " \
 "learn " \
 "Explicit " \
 "line " \
 "continuation")
-
-
-# Implicit line continuation
 
 
 # Carriage Return 
