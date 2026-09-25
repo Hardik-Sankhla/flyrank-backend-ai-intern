@@ -1,7 +1,11 @@
 # Explicit line continuation
-print("We are going to learn " 
-      
-      )
+print("We are going to " \
+"learn " \
+"Explicit " \
+"line " \
+"continuation")
+
+
 # Implicit line continuation
 
 
