@@ -1,5 +1,7 @@
 # Explicit line continuation
 print("We are going to learn")
+2+3\
+    +4
 
 # Implicit line continuation
 
