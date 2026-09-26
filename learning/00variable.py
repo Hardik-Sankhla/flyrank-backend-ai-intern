@@ -6,4 +6,4 @@
 """
 
 
-x='abc';print(x)
+x='abc';print(type(x),x);x=5;print(type(x),x)
