@@ -25,5 +25,5 @@
 
 # Operation example of complex data type
 
-myComplex=complex(0,2)
+myComplex=complex(input("Input: "))
 print(myComplex)
