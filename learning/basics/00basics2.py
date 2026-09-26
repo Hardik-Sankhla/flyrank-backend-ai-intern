@@ -24,3 +24,6 @@
 """
 
 # Operation example of complex data type
+
+myComplex=complex(0,2)
+print(myComplex)
