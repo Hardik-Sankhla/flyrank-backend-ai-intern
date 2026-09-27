@@ -5,8 +5,10 @@
     Complex Number Example: z = 3+4j or mathamatically 3+4i, where 'i' is a imaginary number ex: i, -i, (pi)(i), (e)(i)
 
     # Complex Number    
-    z= 5\ # Real Number
-          + 3i # imaginary number
-
-
+    z =    5    + 3i    # imaginary number
+        # Real Number
+    
 """
+
+z = 3.14 + 2.71J
+print(z); print(type(z))
